@@ -1,0 +1,31 @@
+#buton {
+    margin-left: 20px;
+}
+.list-group-item-action {
+   margin-bottom: 10px;
+}
+
+
+#liste {
+    margin-top: 90px;
+    margin-left: 30px;
+}
+#menü-liste {
+    margin-top: 20px;
+}
+.maddeler {
+    margin-top: 20px;
+}
+
+body {
+    font-family: Verdana, monospace, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: justify;
+  
+}
+
+#form {
+    margin-top: 190px;
+    margin-left: 60px;
+}
